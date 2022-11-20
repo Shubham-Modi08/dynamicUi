@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "fieldType": "textField",
+      "displayName": "Name",
+      "placeholder": "Enter Full Name",
+      "processDataName": "",
+      "isMandetory": "",
+      "validationRules": [
+        {}
+      ],
+      "accessibilityType": [
+        {
+          "type": "read",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "write",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "hide",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        }
+      ],
+      "fieldSize": "",
+      "order": "",
+      "properties": {
+        "optionValue": []
+      }
+    },
+    {
+      "fieldType": "textField",
+      "displayName": "Designation",
+      "placeholder": "Enter your Designation",
+      "processDataName": "",
+      "isMandetory": "",
+      "validationRules": [
+        {}
+      ],
+      "accessibilityType": [
+        {
+          "type": "read",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "write",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "hide",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        }
+      ],
+      "fieldSize": "",
+      "order": "",
+      "properties": {
+        "optionValue": []
+      }
+    },
+    {
+      "fieldType": "textField",
+      "displayName": "CTC",
+      "placeholder": "Enter your CTC",
+      "processDataName": "",
+      "isMandetory": "",
+      "validationRules": [
+        {}
+      ],
+      "accessibilityType": [
+        {
+          "type": "read",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "write",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "hide",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        }
+      ],
+      "fieldSize": "",
+      "order": "",
+      "properties": {
+        "optionValue": []
+      }
+    },
+    {
+      "fieldType": "password",
+      "displayName": "Password",
+      "placeholder": "Enter your Password",
+      "processDataName": "",
+      "isMandetory": "",
+      "validationRules": [
+        {}
+      ],
+      "accessibilityType": [
+        {
+          "type": "read",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "write",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        },
+        {
+          "type": "hide",
+          "access_role": [
+            ""
+          ],
+          "access_workGroup": [
+            ""
+          ]
+        }
+      ],
+      "fieldSize": "",
+      "order": "",
+      "properties": {
+        "optionValue": []
+      }
+    }
+  ]
+}
